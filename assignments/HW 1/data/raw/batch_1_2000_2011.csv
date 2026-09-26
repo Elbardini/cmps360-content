@@ -1,0 +1,721 @@
+country_iso3,country_name,year,indicator_code,indicator_name,value
+QAT,Qatar,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+QAT,Qatar,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0345916042954767
+QAT,Qatar,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+QAT,Qatar,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),51.1981146765586
+QAT,Qatar,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),44.6630200292918
+QAT,Qatar,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),39.7629937914219
+QAT,Qatar,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),43.3504469009866
+QAT,Qatar,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),46.4568362437376
+QAT,Qatar,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),50.3550976479985
+QAT,Qatar,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),52.7739009071877
+QAT,Qatar,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),53.2363848903188
+QAT,Qatar,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),51.3901235695236
+QAT,Qatar,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),50.8998108843442
+QAT,Qatar,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),47.8365600914555
+QAT,Qatar,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),49.2290566195703
+USA,United States,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+USA,United States,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.686393699636
+USA,United States,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.6143983117236
+USA,United States,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.7806308892929
+USA,United States,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.5301997751508
+USA,United States,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.91391202574991
+USA,United States,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.78948021905534
+USA,United States,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.12092303221335
+USA,United States,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.21619811557572
+USA,United States,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.4946204631135
+USA,United States,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.20382511502992
+USA,United States,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),7.42248933913917
+USA,United States,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.81261648193646
+USA,United States,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),17.0203888981196
+USA,United States,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),17.847084306938
+USA,United States,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),17.1890632001903
+USA,United States,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.7089026291301
+USA,United States,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.4956606869752
+USA,United States,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.4048177077015
+USA,United States,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.9249914215479
+USA,United States,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),20.0815597947275
+USA,United States,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.9681657791826
+USA,United States,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.9103793387111
+USA,United States,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),20.6255077855762
+USA,United States,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),21.0118753202743
+GBR,United Kingdom,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+GBR,United Kingdom,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.3583881637057
+GBR,United Kingdom,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),7.66320959272708
+GBR,United Kingdom,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),7.78668294365861
+GBR,United Kingdom,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),6.77161952616921
+GBR,United Kingdom,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),5.93404211889756
+GBR,United Kingdom,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),5.52730805825585
+GBR,United Kingdom,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),4.98749861932543
+GBR,United Kingdom,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),4.26119560223087
+GBR,United Kingdom,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),3.35310574136485
+GBR,United Kingdom,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),3.55820331262298
+GBR,United Kingdom,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),3.1110556694708
+GBR,United Kingdom,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),3.35853650127696
+GBR,United Kingdom,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),7.25917227971883
+GBR,United Kingdom,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),7.97797355319206
+GBR,United Kingdom,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),7.76330695463938
+GBR,United Kingdom,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.63835719565399
+GBR,United Kingdom,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.97579081257711
+GBR,United Kingdom,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.20229684969568
+GBR,United Kingdom,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.2634507993102
+GBR,United Kingdom,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.35478076788979
+GBR,United Kingdom,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.40083618149317
+GBR,United Kingdom,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.21604321231769
+GBR,United Kingdom,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.52500193970965
+GBR,United Kingdom,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.37230154582975
+DEU,Germany,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+DEU,Germany,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),21.1830252657297
+DEU,Germany,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.6238311852413
+DEU,Germany,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.0317317412975
+DEU,Germany,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.6434365062903
+DEU,Germany,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.0125048335391
+DEU,Germany,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.3838878699732
+DEU,Germany,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),11.2629470690756
+DEU,Germany,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.3016006303503
+DEU,Germany,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.41124256470187
+DEU,Germany,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.38887051853266
+DEU,Germany,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),7.23304331811066
+DEU,Germany,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),6.88673698232395
+DEU,Germany,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.81776726131477
+DEU,Germany,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.96567124737992
+DEU,Germany,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.37864424258525
+DEU,Germany,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.1072965484379
+DEU,Germany,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.0478127320359
+DEU,Germany,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.3846207212787
+DEU,Germany,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.2067903422435
+DEU,Germany,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.4632650583049
+DEU,Germany,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.6369632865784
+DEU,Germany,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.546202837135
+DEU,Germany,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.7525841705381
+DEU,Germany,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.5993032021746
+FRA,France,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+FRA,France,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.4090462949242
+FRA,France,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.5810478721629
+FRA,France,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),13.9254447917153
+FRA,France,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),13.6874971680324
+FRA,France,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.560092879909
+FRA,France,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),11.790103484446
+FRA,France,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.6198562305034
+FRA,France,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.0693402873951
+FRA,France,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.0654455064763
+FRA,France,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.456687350084
+FRA,France,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.9187032555093
+FRA,France,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),13.7368998099838
+FRA,France,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),5.56604040689413
+FRA,France,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),5.80194807906
+FRA,France,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),5.71717317269645
+FRA,France,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),5.94290191259616
+FRA,France,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.09003030294036
+FRA,France,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.24021668362979
+FRA,France,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.45391402908229
+FRA,France,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.46668310699496
+FRA,France,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.49767617932604
+FRA,France,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.46436747006761
+FRA,France,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.59967427030181
+FRA,France,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.58034817935345
+CHN,China,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.9
+CHN,China,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.7
+CHN,China,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.1
+CHN,China,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.8
+CHN,China,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.5
+CHN,China,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.2
+CHN,China,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.9
+CHN,China,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.7
+CHN,China,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.4
+CHN,China,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.2
+CHN,China,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.0
+CHN,China,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),96.7
+CHN,China,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.836073329416
+CHN,China,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),18.7929868229344
+CHN,China,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.8108790138305
+CHN,China,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.6408195697663
+CHN,China,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.2657979334449
+CHN,China,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.5566024437238
+CHN,China,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.1592699120884
+CHN,China,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.2232487195383
+CHN,China,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.0371010412115
+CHN,China,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.6186164128829
+CHN,China,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),18.9581214478014
+CHN,China,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.6391375029689
+CHN,China,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),7.40185065816131
+CHN,China,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.80718476794211
+CHN,China,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),6.24909018523805
+CHN,China,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),5.85225866357655
+CHN,China,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),5.7076324565497
+CHN,China,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),5.28052516361306
+CHN,China,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.78299420120885
+CHN,China,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.24069749050016
+CHN,China,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),3.70467882645141
+CHN,China,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),3.22795454545455
+CHN,China,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),3.00747564571294
+CHN,China,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.88907594771294
+IND,India,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),79.5
+IND,India,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),76.3
+IND,India,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),75.0
+IND,India,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),74.1
+IND,India,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),72.3
+IND,India,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),67.9
+IND,India,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),68.8
+IND,India,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),64.4
+IND,India,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),65.4
+IND,India,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),62.3
+IND,India,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),62.0
+IND,India,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),60.3
+IND,India,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.306114125047
+IND,India,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.9419430950586
+IND,India,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.3504789989236
+IND,India,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.1072579022733
+IND,India,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.8958319059597
+IND,India,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.9724580053981
+IND,India,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.3659113976406
+IND,India,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.8708458297682
+IND,India,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),11.5191856915079
+IND,India,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.8005809834912
+IND,India,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),13.6197629481384
+IND,India,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.0401258332442
+IND,India,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.46337391608571
+IND,India,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.39129863287623
+IND,India,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.32284533301467
+IND,India,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.25815998206335
+IND,India,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.18862350046436
+IND,India,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.10810989189174
+IND,India,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.05460489385527
+IND,India,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.02822643182898
+IND,India,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.969744882653011
+IND,India,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.957620477500199
+IND,India,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.939789720011458
+IND,India,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.942309744278839
+BRA,Brazil,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.3
+BRA,Brazil,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.6
+BRA,Brazil,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.9
+BRA,Brazil,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.5
+BRA,Brazil,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.1
+BRA,Brazil,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.6
+BRA,Brazil,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.1
+BRA,Brazil,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),96.8
+BRA,Brazil,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.0
+BRA,Brazil,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),96.7
+BRA,Brazil,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),96.0
+BRA,Brazil,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),94.4
+BRA,Brazil,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),87.1951774964881
+BRA,Brazil,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),84.8163978802163
+BRA,Brazil,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),89.0545459226252
+BRA,Brazil,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),84.334590890735
+BRA,Brazil,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),88.2273383848482
+BRA,Brazil,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),86.7770122836764
+BRA,Brazil,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),87.1374676515322
+BRA,Brazil,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),86.0318464433105
+BRA,Brazil,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),87.163729383898
+BRA,Brazil,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),85.7402993019374
+BRA,Brazil,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),84.2906139272103
+BRA,Brazil,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),89.4957553523831
+BRA,Brazil,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.37418967936326
+BRA,Brazil,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.27112813109879
+BRA,Brazil,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.00746250710986
+BRA,Brazil,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.16839391882541
+BRA,Brazil,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.08496718576573
+BRA,Brazil,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.00204169117872
+BRA,Brazil,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.99935674253319
+BRA,Brazil,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.99978275095698
+BRA,Brazil,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.91839410561756
+BRA,Brazil,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.96879630651915
+BRA,Brazil,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.9928207750233
+BRA,Brazil,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.00787868943563
+ZAF,South Africa,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),83.6
+ZAF,South Africa,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),82.8
+ZAF,South Africa,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),82.6
+ZAF,South Africa,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),81.9
+ZAF,South Africa,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),82.0
+ZAF,South Africa,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),80.7
+ZAF,South Africa,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),80.8
+ZAF,South Africa,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),80.6
+ZAF,South Africa,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),78.8
+ZAF,South Africa,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),76.7
+ZAF,South Africa,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),70.2
+ZAF,South Africa,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),72.4
+ZAF,South Africa,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.99910108250996
+ZAF,South Africa,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.9412714126679
+ZAF,South Africa,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.75400810235738
+ZAF,South Africa,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.64048302108862
+ZAF,South Africa,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.73369414640256
+ZAF,South Africa,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),2.15545827784301
+ZAF,South Africa,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.87487853275737
+ZAF,South Africa,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.94551624046933
+ZAF,South Africa,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.74180396108082
+ZAF,South Africa,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.87427405644339
+ZAF,South Africa,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),2.10604950023798
+ZAF,South Africa,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),2.00085441686049
+ZAF,South Africa,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.37758623633968
+ZAF,South Africa,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.87117430020844
+ZAF,South Africa,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.83353970564321
+ZAF,South Africa,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.54569945858325
+ZAF,South Africa,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.10281000552084
+ZAF,South Africa,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.81243167639557
+ZAF,South Africa,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.81501533854301
+ZAF,South Africa,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.69023374521021
+ZAF,South Africa,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),8.11491084558816
+ZAF,South Africa,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),7.72131022420827
+ZAF,South Africa,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),7.51319828115408
+ZAF,South Africa,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),7.36397941641679
+NGA,Nigeria,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),55.9
+NGA,Nigeria,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),48.0
+NGA,Nigeria,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),50.0
+NGA,Nigeria,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),50.3
+NGA,Nigeria,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),50.1
+NGA,Nigeria,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),47.6
+NGA,Nigeria,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),46.8
+NGA,Nigeria,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),46.1
+NGA,Nigeria,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),52.2
+NGA,Nigeria,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),44.6
+NGA,Nigeria,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),43.9
+NGA,Nigeria,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),43.2
+NGA,Nigeria,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),18.2071240105541
+NGA,Nigeria,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),26.1201304584164
+NGA,Nigeria,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),35.0682352941176
+NGA,Nigeria,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),33.0147898861976
+NGA,Nigeria,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),32.9041020658189
+NGA,Nigeria,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),44.9380403458213
+NGA,Nigeria,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),54.6550946233864
+NGA,Nigeria,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),32.905988461851
+NGA,Nigeria,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),37.8402202514375
+NGA,Nigeria,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),29.3003569140661
+NGA,Nigeria,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),39.2408952959029
+NGA,Nigeria,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),42.7572043723087
+NGA,Nigeria,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.606966647220167
+NGA,Nigeria,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.566502430832841
+NGA,Nigeria,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.499337659024901
+NGA,Nigeria,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.581139578438694
+NGA,Nigeria,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.550572897626193
+NGA,Nigeria,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.621989926382773
+NGA,Nigeria,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.710050686175941
+NGA,Nigeria,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.736921009510727
+NGA,Nigeria,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.7843536892773
+NGA,Nigeria,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.720895078592108
+NGA,Nigeria,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.818897081180304
+NGA,Nigeria,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.792790969926579
+EGY,"Egypt, Arab Rep.",2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.4
+EGY,"Egypt, Arab Rep.",2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.4
+EGY,"Egypt, Arab Rep.",2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.9
+EGY,"Egypt, Arab Rep.",2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.8
+EGY,"Egypt, Arab Rep.",2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.4
+EGY,"Egypt, Arab Rep.",2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.0
+EGY,"Egypt, Arab Rep.",2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.4
+EGY,"Egypt, Arab Rep.",2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.8
+EGY,"Egypt, Arab Rep.",2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.8
+EGY,"Egypt, Arab Rep.",2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.5
+EGY,"Egypt, Arab Rep.",2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.4
+EGY,"Egypt, Arab Rep.",2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.7
+EGY,"Egypt, Arab Rep.",2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.63321393516807
+EGY,"Egypt, Arab Rep.",2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.97775210018425
+EGY,"Egypt, Arab Rep.",2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),11.4980757588861
+EGY,"Egypt, Arab Rep.",2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.7743050774856
+EGY,"Egypt, Arab Rep.",2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),11.1199002629287
+EGY,"Egypt, Arab Rep.",2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),11.9859193983034
+EGY,"Egypt, Arab Rep.",2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.4357438586807
+EGY,"Egypt, Arab Rep.",2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),13.5577547655949
+EGY,"Egypt, Arab Rep.",2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.0900896168433
+EGY,"Egypt, Arab Rep.",2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.0305976006279
+EGY,"Egypt, Arab Rep.",2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),18.7720275689825
+EGY,"Egypt, Arab Rep.",2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),18.0499085010814
+EGY,"Egypt, Arab Rep.",2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.40787061503775
+EGY,"Egypt, Arab Rep.",2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.37407988100642
+EGY,"Egypt, Arab Rep.",2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.40386934022582
+EGY,"Egypt, Arab Rep.",2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.35283522329508
+EGY,"Egypt, Arab Rep.",2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.39637572755543
+EGY,"Egypt, Arab Rep.",2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.28386190572735
+EGY,"Egypt, Arab Rep.",2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.1995658648073
+EGY,"Egypt, Arab Rep.",2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.0184066565906
+EGY,"Egypt, Arab Rep.",2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.89914658738482
+EGY,"Egypt, Arab Rep.",2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.90141842765088
+EGY,"Egypt, Arab Rep.",2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.89148509278964
+EGY,"Egypt, Arab Rep.",2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.75027301728806
+SAU,Saudi Arabia,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+SAU,Saudi Arabia,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.002155293063875
+SAU,Saudi Arabia,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0017036626664611
+SAU,Saudi Arabia,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0002809998065247
+SAU,Saudi Arabia,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0002987267384916
+SAU,Saudi Arabia,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0003201511533314
+SAU,Saudi Arabia,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0003362104126018
+SAU,Saudi Arabia,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0003463468919624
+SAU,Saudi Arabia,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0003815480844409
+SAU,Saudi Arabia,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0003986928104575
+SAU,Saudi Arabia,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0004303776034317
+SAU,Saudi Arabia,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.000456337480269
+SAU,Saudi Arabia,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.000483394219873
+SAU,Saudi Arabia,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),20.2940259487267
+SAU,Saudi Arabia,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),20.3047423300728
+SAU,Saudi Arabia,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.3345628771474
+SAU,Saudi Arabia,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.0563174565032
+SAU,Saudi Arabia,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),17.3405924711443
+SAU,Saudi Arabia,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),17.0903135744837
+SAU,Saudi Arabia,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),16.8475463633317
+SAU,Saudi Arabia,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),16.6257165924061
+SAU,Saudi Arabia,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),16.4119297375647
+SAU,Saudi Arabia,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),16.3991276825131
+SAU,Saudi Arabia,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),16.1835734476463
+SAU,Saudi Arabia,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),16.3953985610582
+ARE,United Arab Emirates,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+ARE,United Arab Emirates,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0225949948051686
+ARE,United Arab Emirates,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0196063821860797
+ARE,United Arab Emirates,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0074797544866858
+ARE,United Arab Emirates,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),0.0
+ARE,United Arab Emirates,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),24.9498559934509
+ARE,United Arab Emirates,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),25.0301244367043
+ARE,United Arab Emirates,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),24.6511808903397
+ARE,United Arab Emirates,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),26.0607102012736
+ARE,United Arab Emirates,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),24.382755503246
+ARE,United Arab Emirates,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),25.3932243317163
+ARE,United Arab Emirates,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),26.2522643034306
+ARE,United Arab Emirates,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),25.9698706267172
+ARE,United Arab Emirates,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),25.956044391153
+ARE,United Arab Emirates,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),26.1619793238318
+ARE,United Arab Emirates,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),27.1939982651151
+ARE,United Arab Emirates,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),25.3198800655489
+JPN,Japan,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+JPN,Japan,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.4970838682726
+JPN,Japan,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.67870045350893
+JPN,Japan,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.66559557477652
+JPN,Japan,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.46142018753925
+JPN,Japan,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.27298936641637
+JPN,Japan,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.5870701137256
+JPN,Japan,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.57878351712967
+JPN,Japan,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.919454165101
+JPN,Japan,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),11.2211333327667
+JPN,Japan,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.85338824915103
+JPN,Japan,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.1699450211479
+JPN,Japan,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.2781393693635
+JPN,Japan,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.93397401297005
+JPN,Japan,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.50311626454283
+JPN,Japan,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.03961045553586
+JPN,Japan,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.53253711064086
+JPN,Japan,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.0916024093562
+JPN,Japan,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.82400472413847
+JPN,Japan,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.0074734098753
+JPN,Japan,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.91730575058116
+JPN,Japan,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.95886797475689
+JPN,Japan,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.92193416768018
+JPN,Japan,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.67360734256659
+JPN,Japan,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.80406329083986
+KOR,"Korea, Rep.",2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+KOR,"Korea, Rep.",2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),2.0466332671046
+KOR,"Korea, Rep.",2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.88960082176325
+KOR,"Korea, Rep.",2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.72213081319407
+KOR,"Korea, Rep.",2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.62301759824585
+KOR,"Korea, Rep.",2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.47015351871194
+KOR,"Korea, Rep.",2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.4218289812567
+KOR,"Korea, Rep.",2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.43790883430735
+KOR,"Korea, Rep.",2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.66852928631973
+KOR,"Korea, Rep.",2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),2.05873343390032
+KOR,"Korea, Rep.",2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.68491069545361
+KOR,"Korea, Rep.",2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.96020895137366
+KOR,"Korea, Rep.",2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),1.97533853310966
+KOR,"Korea, Rep.",2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.9702684429817
+KOR,"Korea, Rep.",2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.3690482033055
+KOR,"Korea, Rep.",2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),11.2836813865383
+KOR,"Korea, Rep.",2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),11.2602688410662
+KOR,"Korea, Rep.",2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),11.1126206303646
+KOR,"Korea, Rep.",2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.8117127664204
+KOR,"Korea, Rep.",2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.7084009751588
+KOR,"Korea, Rep.",2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.8037309775721
+KOR,"Korea, Rep.",2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.5024332706302
+KOR,"Korea, Rep.",2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.3782797747059
+KOR,"Korea, Rep.",2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),10.0719727295012
+KOR,"Korea, Rep.",2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),9.9217579706617
+AUS,Australia,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),100.0
+AUS,Australia,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),10.3928534854226
+AUS,Australia,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.61549665361888
+AUS,Australia,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),7.52290842272387
+AUS,Australia,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.17116943027123
+AUS,Australia,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.71494548789465
+AUS,Australia,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),9.33943220375381
+AUS,Australia,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.92460091843429
+AUS,Australia,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.27551940604288
+AUS,Australia,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.53031222543274
+AUS,Australia,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),7.93263167146404
+AUS,Australia,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.24987201460146
+AUS,Australia,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),8.53855887053809
+AUS,Australia,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.480821685778
+AUS,Australia,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.8509537372201
+AUS,Australia,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.9151698120932
+AUS,Australia,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.02811960112
+AUS,Australia,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.2389222350972
+AUS,Australia,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.0793285754815
+AUS,Australia,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.0378039300894
+AUS,Australia,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),19.1634087908315
+AUS,Australia,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.6676694689453
+AUS,Australia,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.9093269577501
+AUS,Australia,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.6995326153179
+AUS,Australia,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),18.5978917642845
+MEX,Mexico,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.0
+MEX,Mexico,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.2
+MEX,Mexico,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.3
+MEX,Mexico,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.9
+MEX,Mexico,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.9
+MEX,Mexico,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.1
+MEX,Mexico,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.9
+MEX,Mexico,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.6
+MEX,Mexico,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.4
+MEX,Mexico,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.9
+MEX,Mexico,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.1
+MEX,Mexico,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.0
+MEX,Mexico,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.8882176324282
+MEX,Mexico,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.6020244105147
+MEX,Mexico,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.9470743558429
+MEX,Mexico,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.5374395686819
+MEX,Mexico,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.0887356703145
+MEX,Mexico,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.3321088746747
+MEX,Mexico,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.1954515727685
+MEX,Mexico,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),14.4424516905671
+MEX,Mexico,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),12.1198939957751
+MEX,Mexico,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.0462375298436
+MEX,Mexico,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.0973512533413
+MEX,Mexico,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),19.7951574085329
+MEX,Mexico,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.22179978144365
+MEX,Mexico,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.19755809286418
+MEX,Mexico,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.12122098054155
+MEX,Mexico,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.27910076303278
+MEX,Mexico,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.32899168517287
+MEX,Mexico,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.32571227914951
+MEX,Mexico,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.22758379844974
+MEX,Mexico,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.12339368005276
+MEX,Mexico,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.08541432161845
+MEX,Mexico,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),3.94830756150866
+MEX,Mexico,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),3.94395058441036
+MEX,Mexico,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),4.02272121123337
+RUS,Russian Federation,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.2
+RUS,Russian Federation,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),99.3
+RUS,Russian Federation,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.4
+RUS,Russian Federation,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.3
+RUS,Russian Federation,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.2
+RUS,Russian Federation,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.1
+RUS,Russian Federation,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.0
+RUS,Russian Federation,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),98.0
+RUS,Russian Federation,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.9
+RUS,Russian Federation,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.9
+RUS,Russian Federation,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.9
+RUS,Russian Federation,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),97.8
+RUS,Russian Federation,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.083166392514
+RUS,Russian Federation,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.4167991291196
+RUS,Russian Federation,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.9528216294683
+RUS,Russian Federation,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.2117737862837
+RUS,Russian Federation,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.8079733447056
+RUS,Russian Federation,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.7856142937194
+RUS,Russian Federation,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),18.4826269612606
+RUS,Russian Federation,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),19.2200533339057
+RUS,Russian Federation,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.3491224355714
+RUS,Russian Federation,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),18.5349837594036
+RUS,Russian Federation,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),19.8380426440955
+RUS,Russian Federation,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),18.9408099652983
+RUS,Russian Federation,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.8138402250147
+RUS,Russian Federation,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.2289345872818
+RUS,Russian Federation,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),11.6405620274147
+RUS,Russian Federation,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.3604193305861
+RUS,Russian Federation,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.4578591772281
+RUS,Russian Federation,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.4166473767424
+RUS,Russian Federation,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.1189832296134
+RUS,Russian Federation,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.0698465708905
+RUS,Russian Federation,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),12.0101555342893
+RUS,Russian Federation,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),11.5293860535362
+RUS,Russian Federation,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),11.5380010322485
+RUS,Russian Federation,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),11.4678581573253
+IDN,Indonesia,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),94.8
+IDN,Indonesia,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),94.2
+IDN,Indonesia,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),93.6
+IDN,Indonesia,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),92.7
+IDN,Indonesia,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),91.1
+IDN,Indonesia,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),90.6
+IDN,Indonesia,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),84.8
+IDN,Indonesia,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),89.0
+IDN,Indonesia,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),87.9
+IDN,Indonesia,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),87.6
+IDN,Indonesia,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),86.3
+IDN,Indonesia,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),86.3
+IDN,Indonesia,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),16.0083592484018
+IDN,Indonesia,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),19.5994746504731
+IDN,Indonesia,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.123464349956
+IDN,Indonesia,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.6652893668886
+IDN,Indonesia,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.1079767289713
+IDN,Indonesia,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),15.9337877239389
+IDN,Indonesia,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.7843235656204
+IDN,Indonesia,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.4691460765793
+IDN,Indonesia,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),17.5550392125622
+IDN,Indonesia,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),19.4262454143064
+IDN,Indonesia,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),21.9326940170265
+IDN,Indonesia,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),21.0016394320922
+IDN,Indonesia,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),2.00399300866727
+IDN,Indonesia,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.80134962735397
+IDN,Indonesia,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.69126327047376
+IDN,Indonesia,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.6541425247205
+IDN,Indonesia,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.69488500402322
+IDN,Indonesia,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.63888306289882
+IDN,Indonesia,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.57055662745946
+IDN,Indonesia,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.58011931285841
+IDN,Indonesia,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.57132250644049
+IDN,Indonesia,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.46310550665851
+IDN,Indonesia,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.45853518944239
+IDN,Indonesia,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),1.38408579613851
+KEN,Kenya,2011,EG.ELC.ACCS.ZS,Access to electricity (% of population),36.2
+KEN,Kenya,2010,EG.ELC.ACCS.ZS,Access to electricity (% of population),19.2
+KEN,Kenya,2009,EG.ELC.ACCS.ZS,Access to electricity (% of population),23.0
+KEN,Kenya,2008,EG.ELC.ACCS.ZS,Access to electricity (% of population),30.3
+KEN,Kenya,2007,EG.ELC.ACCS.ZS,Access to electricity (% of population),28.3
+KEN,Kenya,2006,EG.ELC.ACCS.ZS,Access to electricity (% of population),26.4
+KEN,Kenya,2005,EG.ELC.ACCS.ZS,Access to electricity (% of population),24.5
+KEN,Kenya,2004,EG.ELC.ACCS.ZS,Access to electricity (% of population),22.6
+KEN,Kenya,2003,EG.ELC.ACCS.ZS,Access to electricity (% of population),16.0
+KEN,Kenya,2002,EG.ELC.ACCS.ZS,Access to electricity (% of population),18.9
+KEN,Kenya,2001,EG.ELC.ACCS.ZS,Access to electricity (% of population),17.0
+KEN,Kenya,2000,EG.ELC.ACCS.ZS,Access to electricity (% of population),15.2
+KEN,Kenya,2011,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),67.8164983164983
+KEN,Kenya,2010,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),62.7448651669694
+KEN,Kenya,2009,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),59.7118467933492
+KEN,Kenya,2008,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),67.1421664904064
+KEN,Kenya,2007,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),70.5604497150778
+KEN,Kenya,2006,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),71.1285525446134
+KEN,Kenya,2005,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),71.3124343257443
+KEN,Kenya,2004,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),76.1442739520958
+KEN,Kenya,2003,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),77.4454472523065
+KEN,Kenya,2002,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),70.3272688356164
+KEN,Kenya,2001,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),53.1642254771416
+KEN,Kenya,2000,EG.ELC.RNEW.ZS,Renewable electricity output (% of total),59.0982298678634
+KEN,Kenya,2011,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.324518228099931
+KEN,Kenya,2010,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.324116934124197
+KEN,Kenya,2009,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.308699389943664
+KEN,Kenya,2008,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.269606829771024
+KEN,Kenya,2007,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.262922185302275
+KEN,Kenya,2006,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.270940760689191
+KEN,Kenya,2005,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.252147669028053
+KEN,Kenya,2004,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.231964810186713
+KEN,Kenya,2003,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.214880306718519
+KEN,Kenya,2002,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.245465741018151
+KEN,Kenya,2001,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.26100621869581
+KEN,Kenya,2000,EN.GHG.CO2.PC.CE.AR5,CO2 emissions excluding LULUCF per capita (t CO2e/capita),0.290677543795641
